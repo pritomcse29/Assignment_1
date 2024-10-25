@@ -12,7 +12,7 @@ nav ul{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    margin:50px 150px 48px 150px;
+    margin:40px 150px 44px 150px;
 }
 nav ul li {
     list-style: none;
@@ -260,6 +260,9 @@ nav ul li {
     border-radius: 16px;
     background: rgba(255, 223, 0, 0.05);
     
+}
+.second-part-img{
+        margin-right: 15px;
 }
 .skill-title{
     margin-top: 24px;
